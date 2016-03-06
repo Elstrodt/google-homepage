@@ -1,0 +1,149 @@
+html{
+	font-family: "Product-Sans";
+}
+
+.title {	
+	padding-top: 100px;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.title h1 {
+	letter-spacing: -13px;
+	font-size: 80px;
+}
+
+.blue {
+	color:#4285F4;
+	margin: 0;
+	padding: 0;
+}
+
+.red {
+	color:#EA4335;
+	margin: 0;
+	padding: 0;
+}
+.yellow {
+	color:#FBBC05;
+	margin: 0;
+	padding: 0;
+}
+.green {
+	color:#34A853;
+	margin: 0;
+	padding: 0;
+}
+
+.nav {
+	width: 100%;
+	padding-top: 20px;
+}
+
+.nav .container {
+	float: right;
+	text-align: right;
+}
+
+
+.nav .container ul li{
+	display: inline;
+	margin-right: 15px;
+}
+
+.links {
+	text-decoration: none;
+	color: black;
+	font-size: 12px;
+}
+
+.btn {
+	background-color: #4385F7;
+	padding: 6px 8px 6px 8px;
+	color: white;
+	text-decoration: none;
+	font-size: 14px;
+	border-radius: 0;
+}
+
+.nav img{
+	height: 15px;
+	width: 15x;
+	margin-bottom: -4px;
+}
+
+form {
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+input {
+	width: 500px;
+	height: 35px;
+}
+
+.search_button {
+	text-align: center;
+
+
+}
+
+.btn2 {
+	background-color: #F6F6F6;
+	padding: 10px 20px 10px 20px;
+	color: black;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: 200;
+}
+
+.search_button ul {
+	margin-top: 40px;
+}
+
+.search_button ul li {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.search_box {
+	margin-top: 30px;
+}
+
+.main {
+	height: 735px;
+}
+
+.footer{
+	background-color: #F2F2F2;
+	height: 50px;
+}
+
+.footer ul li {
+	display: inline;
+	margin-right: 20px;
+}
+
+#right {
+	text-align: right
+	
+}
+
+
+#left {
+	text-align: left;
+}
+
+.row {
+	padding-top: 10px;
+}
+
+.links:hover{
+	text-decoration: underline;
+	color: black;
+}
+
+.btn, .btn2:hover{
+	text-decoration: none;
+}
