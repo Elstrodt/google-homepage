@@ -1,2 +1,2 @@
 # google-homepage
-link: https://github.com/Elstrodt/google-homepage.git
+Basic replication of Google Homepage
