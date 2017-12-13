@@ -1,2 +1,2 @@
 # google-homepage
-Basic replication of Google Homepage
+Very basic replication of Google Homepage
